@@ -45,10 +45,10 @@ Used libraries:
 ### 2.2 User Interfaces
 
 App has 4 main pages:
-- Home page ([Figure 1](https://github.com/Xyrmovich/Crown-shop/documentation/mokups/home-page.png))
-- Sign In and Sign Up page ([Figure 2](https://github.com/Xyrmovich/Crown-shop/documentation/mokups/sign-in-and-sign-up-page.png))
-- Shop page ([Figure 3](https://github.com/Xyrmovich/Crown-shop/documentation/mokups/shop-page.png))
-- Collection overview page ([Figure 4](https://github.com/Xyrmovich/Crown-shop/documentation/mokups/collection-overview-page.png))
+- Home page ([Figure 1](https://github.com/Xyrmovich/Crown-shop/blob/master/documentation/mokups/home-page.png))
+- Sign In and Sign Up page ([Figure 2](https://github.com/Xyrmovich/Crown-shop/blob/master/documentation/mokups/sign-in-and-sign-up-page.png))
+- Shop page ([Figure 3](https://github.com/Xyrmovich/Crown-shop/blob/master/documentation/mokups/shop-page.png))
+- Collection overview page ([Figure 4](https://github.com/Xyrmovich/Crown-shop/blob/master/documentation/mokups/collection-overview-page.png))
 
 ### 2.3 User Characteristics
 
