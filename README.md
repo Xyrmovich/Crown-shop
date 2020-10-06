@@ -1,9 +1,3 @@
----
-title: "README"
-author: "Daniil Khmurovich"
----
-
----
 
 # CROWN-SHOP
 
