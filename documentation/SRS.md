@@ -11,7 +11,7 @@
 3. [System Requirements](#3-system-requirements) <br>
   3.1 [Functional Requirements](#31-functional-requirements) <br>
   3.2 [Non-Functional Requirements](#32-non-functional-requirements) <br>  
-  3.2.1 [Software Quality Attributes](#321-software-quality-attributes) <br>
+  3.2.1 [Software Quality Attributes](#321-software-quality-attributes)
 
 
 ---
