@@ -1,17 +1,17 @@
 
 # Software Requirements Specification
 ### Contents
-1. [Introduction](#1) <br>
-  1.1 [Purpose](#1.1) <br>
-2. [Overall Description](#2) <br>
-  2.1 [Software Interfaces](#2.1) <br>
-  2.2 [User Interfaces](#2.2) <br>
-  2.3 [User Characteristic](#2.3) <br>
-  2.4 [Assumptions and Dependencies](#2.4) <br>
-3. [System Requirements](#3) <br>
-  3.1 [Functional Requirements](#3.1) <br>
-  3.2 [Non-Functional Requirements](#3.2) <br>  
-    3.2.1 [ Software Quality Attributes](#3.2.1) <br>
+1. [Introduction](#1-introduction) <br>
+  1.1 [Purpose](#11-purpose) <br>
+2. [Overall Description](#2-overall-description) <br>
+  2.1 [Software Interfaces](#21-software-interface) <br>
+  2.2 [User Interfaces](#22-user-interface) <br>
+  2.3 [User Characteristic](#23-user-characteristic) <br>
+  2.4 [Assumptions and Dependencies](#24-assumptions-and-dependencies) <br>
+3. [System Requirements](#3-system-requirements) <br>
+  3.1 [Functional Requirements](#31-functional-requirements) <br>
+  3.2 [Non-Functional Requirements](#32-non-functional-requirements) <br>  
+  3.2.1 [Software Quality Attributes](#321-software-quality-attributes) <br>
 
 
 ---
