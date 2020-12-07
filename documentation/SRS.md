@@ -20,7 +20,7 @@
 
 ### 1.1 Purpose
 
-The purpose of this document is build a web-application ***Crown-shop*** to selling different products and provide to user convenient way to overview entire amount of books, which shop provide to customer
+The purpose of this document is build a web-application [***Crown-shop***](https://github.com/daniil-kh/crwn-clothing) to selling different products and provide to user convenient way to overview entire amount of clothes, which shop provide to customer
 
 ---
 
@@ -52,11 +52,11 @@ App has 4 main pages:
 
 ### 2.3 User Characteristics
 
-The user will be able explore which shop provides without signing in and will be able to add products to cards and then buy them after singing in. If user doesn't have an account yet, it's possible create an new user account on "Sign In and Sign Up page"
+The user will be able explore which shop provides without signing in and will be able to add products to cards and then buy them after singing in. If user doesn't have an account yet, it's possible create an new user account on "Sign In and Sign Up page". Crown-shop targeted to users, who interested in updating their wardrobe.
 
 ### 2.4 Assumptions and Dependencies
 
-Web-application ***Crown-Shop*** can't functional properly without Internet connection
+Web-application [***Crown-shop***](https://github.com/daniil-kh/crwn-clothing) can't functional properly without Internet connection
 
 ---
 
@@ -67,8 +67,8 @@ Web-application ***Crown-Shop*** can't functional properly without Internet conn
 User have possibilities to:
 - View all categories of products
 - View all products of particular category
-- Create new account in ***Crown-shop***'s system
-- Sing In in ***Crown-shop***'s system
+- Create new account in [***Crown-shop***](https://github.com/daniil-kh/crwn-clothing)'s system
+- Sing In in [***Crown-shop***](https://github.com/daniil-kh/crwn-clothing)'s system
 - Add products to cart(if signed in)
 - Pay for products via card
 
